@@ -1,0 +1,22 @@
+com/example/controller/Controller.java
+ com.example.controller.Controller
+com/example/util/MySqlConnect.java
+ com.example.util.MySqlConnect
+com/example/util/Id.java
+ com.example.util.Id
+com/example/entity/Product.java
+ com.example.entity.Product
+com/example/util/Column.java
+ com.example.util.Column
+com/example/util/Table.java
+ com.example.util.Table
+com/example/service/ProductService.java
+ com.example.service.ProductService
+com/example/repository/IRepository.java
+ com.example.repository.IRepository
+com/example/repository/impl/Repository.java
+ com.example.repository.impl.Repository
+com/example/service/impl/ProductServiceImpl.java
+ com.example.service.impl.ProductServiceImpl
+com/example/controller/ProductController.java
+ com.example.controller.ProductController
